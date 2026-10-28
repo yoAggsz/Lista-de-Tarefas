@@ -7,9 +7,9 @@ function addTarefa(){
     let listatarefa=document.getElementById("listatarefa")
     let novatarefa= document.createElement("li")
 
-    listatarefa.appendChild('novatarefa')
+    listatarefa.appendChild(novatarefa)
     inputTarefa.value = novatarefa
 
-    inputTarefa.value=''
+    inputTarefa.value=""
 
 }
