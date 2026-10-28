@@ -1,3 +1,6 @@
 function addTarefa(){
-    document.getElementById().textContent=tarefa
+    
+    let addTarefa=getElementById("addTarefa")
+    let tarefa = addTarefa.value
+    
 }
