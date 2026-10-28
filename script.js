@@ -10,4 +10,6 @@ function addTarefa(){
     listatarefa.appendChild('novatarefa')
     inputTarefa.value = novatarefa
 
+    inputTarefa.value=''
+
 }
