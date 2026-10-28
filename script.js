@@ -1,6 +1,7 @@
 function addTarefa(){
-    
-    let inputTarefa=getElementById("inputTarefa")
-    let tarefa = addTarefa.value
-    document.getElementById(addTarefa).textContent=tarefa
+        
+        let inputTarefa=document.getElementById("inputTarefa")
+            let tarefa = inputTarefa.value
+                document.getElementById(inputTarefa).textContent=tarefa
+
 }
