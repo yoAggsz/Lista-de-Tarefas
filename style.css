@@ -9,5 +9,13 @@ h1{
 }
 
 p{
-    color: #fff701;
+    color: white;
+}
+
+tarefa{
+    color: white
+}
+
+.tarefa{
+    color:#fff
 }
